@@ -37,12 +37,12 @@
 
 ## Support Removal Process
 ![image](https://github.com/SadhanaShreee/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144517664/06a25194-97db-4561-b9b0-88be32ce9739)
-
 ![image](https://github.com/SadhanaShreee/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144517664/2c1fa66b-b0dc-4ac3-a666-8f1ffa8dbc5f)
 
+## UV Curing of 3D printed part
 ![image](https://github.com/SadhanaShreee/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144517664/254a6854-d5bc-4b44-a461-8c95bae48ee4)
-
 ![image](https://github.com/SadhanaShreee/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144517664/c1f90dfd-9a83-4d8a-ab31-eace89c74614)
+
 
 ![image](https://github.com/SadhanaShreee/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144517664/e629561a-ffc2-4879-ba57-8502023fb787)
 
