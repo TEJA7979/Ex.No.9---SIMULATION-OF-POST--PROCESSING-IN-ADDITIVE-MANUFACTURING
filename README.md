@@ -36,16 +36,15 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![image](https://github.com/Raji1009/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/89059861/d9b3478c-e991-437b-af74-eaba99876d8f)
-![image](https://github.com/Raji1009/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/89059861/224d88d0-ceb6-4001-b200-1900808aa22e)
+![image](https://github.com/SadhanaShreee/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144517664/06a25194-97db-4561-b9b0-88be32ce9739)
 
-## UV Curing of 3D printed part
-![image](https://github.com/Raji1009/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/89059861/16946a37-3062-4b0e-97f7-a8f72a1431f6)
-![image](https://github.com/Raji1009/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/89059861/55084f58-683f-4a2b-b7b1-c9d65dcee4c4)
+![image](https://github.com/SadhanaShreee/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144517664/2c1fa66b-b0dc-4ac3-a666-8f1ffa8dbc5f)
 
-## Heat Treatment of 3D printed part
-![image](https://github.com/Raji1009/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/89059861/a2228326-6899-4760-9b7f-dbf2334505da)
-![image](https://github.com/Raji1009/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/89059861/7c451afd-ba8c-4935-95cb-1cb6f2c622e5)
+![image](https://github.com/SadhanaShreee/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144517664/254a6854-d5bc-4b44-a461-8c95bae48ee4)
+
+![image](https://github.com/SadhanaShreee/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144517664/c1f90dfd-9a83-4d8a-ab31-eace89c74614)
+
+![image](https://github.com/SadhanaShreee/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144517664/e629561a-ffc2-4879-ba57-8502023fb787)
 
 ## Result: 
  Thus the simulation on the Postprocessing in additive manufacturing is completed.
